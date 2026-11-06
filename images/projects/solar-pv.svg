@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" fill="none">
+  <defs><linearGradient id="sky" x1="89" y1="37" x2="644" y2="389"><stop stop-color="#254E67"/><stop offset="1" stop-color="#101D2D"/></linearGradient><linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9AF1E9"/><stop offset="1" stop-color="#3DBBCB"/></linearGradient></defs>
+  <rect width="720" height="420" fill="url(#sky)"/><circle cx="548" cy="104" r="57" fill="url(#sun)" fill-opacity=".9"/><circle cx="548" cy="104" r="76" stroke="#74DDE5" stroke-opacity=".18"/>
+  <path d="M0 279c117-43 193-36 305 1s234 41 415-13v153H0V279Z" fill="#132B3A"/><path d="M0 327c147-37 279-28 408 3 114 28 212 19 312-4" stroke="#4FCBD7" stroke-opacity=".42"/>
+  <g transform="translate(133 167) skewX(-15)"><path d="M26 0h342l50 157H0L26 0Z" fill="#0B2437" stroke="#70CFDF" stroke-width="2"/><path d="M42 8h94l-9 42H32l10-42Zm111 0h94l-8 42h-94l8-42Zm111 0h94l13 42h-98l-9-42ZM25 63h98l-10 42H15l10-42Zm114 0h98l-8 42h-98l8-42Zm114 0h98l13 42h-103l-8-42Zm-237 58h95l-7 27H9l7-27Zm110 0h101l-5 27h-103l7-27Zm116 0h106l8 27H237l5-27Z" fill="#1E6880" stroke="#4CAFC5" stroke-width="1.4"/></g>
+  <path d="M341 327h61l17 48M468 327h-66" stroke="#9AC8D2" stroke-width="3"/><text x="39" y="47" fill="#D1E2E9" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">ROOFTOP SOLAR PV</text>
+</svg>

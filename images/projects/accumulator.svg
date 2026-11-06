@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" fill="none">
+  <defs><linearGradient id="bg" x1="15" y1="10" x2="700" y2="410"><stop stop-color="#223B5B"/><stop offset="1" stop-color="#0C1928"/></linearGradient><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#BDD3E2" stroke-opacity=".08"/></pattern></defs>
+  <rect width="720" height="420" fill="url(#bg)"/><rect width="720" height="420" fill="url(#g)"/>
+  <g stroke="#6EDAE5" stroke-width="2" fill="#102B41"><rect x="80" y="139" width="132" height="126" rx="8"/><rect x="294" y="139" width="132" height="126" rx="8"/><rect x="508" y="139" width="132" height="126" rx="8"/></g>
+  <g fill="#D8F4F4" font-family="Segoe UI,Arial,sans-serif" text-anchor="middle"><text x="146" y="190" font-size="22" font-weight="600">A</text><text x="146" y="218" font-size="12">4-BIT INPUT</text><text x="360" y="190" font-size="22" font-weight="600">Σ</text><text x="360" y="218" font-size="12">ACCUMULATOR</text><text x="574" y="190" font-size="22" font-weight="600">Q</text><text x="574" y="218" font-size="12">REGISTER</text></g>
+  <path d="M212 202h82m132 0h82M146 102v37m214-37v37m214-37v37" stroke="#88EAF0" stroke-width="2"/><g fill="#51D8E6"><circle cx="253" cy="202" r="4"/><circle cx="467" cy="202" r="4"/><circle cx="146" cy="102" r="4"/><circle cx="360" cy="102" r="4"/><circle cx="574" cy="102" r="4"/></g>
+  <text x="43" y="48" fill="#BACBD8" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">VLSI SCHEMATIC / 4-BIT ACCUMULATOR</text>
+</svg>

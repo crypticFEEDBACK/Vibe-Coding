@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" fill="none">
+  <defs><linearGradient id="bg" x1="50" y1="5" x2="670" y2="420"><stop stop-color="#16354A"/><stop offset="1" stop-color="#0B1927"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#9CC4D4" stroke-opacity=".1"/></pattern></defs>
+  <rect width="720" height="420" fill="url(#bg)"/><rect width="720" height="420" fill="url(#grid)"/>
+  <rect x="125" y="68" width="470" height="284" rx="8" fill="#0D2030" stroke="#80AFC1" stroke-opacity=".6"/>
+  <path d="M162 135h94v52h-94zm175 0h96v52h-96zm175 0h44v52h-44zM196 247h93v54h-93zm175 0h94v54h-94z" stroke="#69D3DE" stroke-width="2" fill="#15354A"/>
+  <path d="M256 161h81m96 0h79M208 187v60m175-60v60m175-60v39H289m0 28h82" stroke="#B1E4E8" stroke-width="1.8"/>
+  <circle cx="296" cy="161" r="4" fill="#51D8E6"/><circle cx="471" cy="161" r="4" fill="#51D8E6"/><circle cx="208" cy="225" r="4" fill="#51D8E6"/>
+  <path d="M150 91h178" stroke="#C1D5DF" stroke-opacity=".35"/><text x="149" y="84" fill="#BDD3DE" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2">SINGLE-LINE DESIGN / LV DISTRIBUTION</text>
+</svg>

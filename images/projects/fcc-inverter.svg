@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="720" y2="420"><stop stop-color="#112C42"/><stop offset="1" stop-color="#091725"/></linearGradient><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#80AFC4" stroke-opacity=".1"/></pattern></defs>
+  <rect width="720" height="420" fill="url(#bg)"/><rect width="720" height="420" fill="url(#g)"/>
+  <g stroke="#62DCE7" stroke-width="2"><path d="M151 102v218M251 102v218M351 102v218M451 102v218M551 102v218"/><path d="M110 141h82m18 0h82m18 0h82m18 0h82m18 0h82M110 279h82m18 0h82m18 0h82m18 0h82m18 0h82"/></g>
+  <g fill="#123246" stroke="#B2F1F4" stroke-width="2"><rect x="132" y="174" width="38" height="50" rx="4"/><rect x="232" y="174" width="38" height="50" rx="4"/><rect x="332" y="174" width="38" height="50" rx="4"/><rect x="432" y="174" width="38" height="50" rx="4"/><rect x="532" y="174" width="38" height="50" rx="4"/></g>
+  <g fill="#51D8E6"><circle cx="151" cy="141" r="5"/><circle cx="251" cy="141" r="5"/><circle cx="351" cy="141" r="5"/><circle cx="451" cy="141" r="5"/><circle cx="551" cy="141" r="5"/></g>
+  <path d="M99 344h36l14-22 18 42 21-62 24 42 17-24h52l18-20 21 40 23-61 21 40 20-17h51l18-22 20 42 22-62 23 43 18-21h56" stroke="#55DFE9" stroke-width="2.5"/>
+  <text x="40" y="47" fill="#B4C9D7" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">MULTILEVEL POWER CONVERSION</text>
+</svg>
